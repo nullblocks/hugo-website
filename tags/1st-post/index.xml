@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1st post on Terminal</title>
+    <link>http://example.org/tags/1st-post/</link>
+    <description>Recent content in 1st post on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 21:27:40 +0530</lastBuildDate><atom:link href="http://example.org/tags/1st-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 30 Jun 2023 21:27:40 +0530</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the nullblocks website!</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://nullblocks.study&#34;&gt;nullblocks&lt;/a&gt; website!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
