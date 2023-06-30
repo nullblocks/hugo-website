@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+#baseURL = 'http://example.org/'
+baseURL = 'https://nullblocks.github.io/hugo-website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme =  'terminal'
